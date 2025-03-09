@@ -1,7 +1,7 @@
 # Hash Killer Version 3
 
 <p align="center">
-  <a href="https://github.com/oaokm/Hash-Killer-V3/blob/main/READMD.ar.md">Arabic</a>
+  <a href="https://github.com/oaokm/Hash-Killer-V3/blob/main/READMD.ar.md">العربية</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/oaokm/Hash-Killer-V3/blob/main/README.md">English</a>
 </p>
